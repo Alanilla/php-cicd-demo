@@ -1,1 +1,1 @@
-Version 1.1 - Feature DEMO-1 alan retry
+Version 1.0 - Initial Release
