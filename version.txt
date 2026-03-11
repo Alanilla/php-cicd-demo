@@ -1,1 +1,1 @@
-Version 1.0 - Feature DEMO-1 update message
+Version 1.1 - Feature DEMO-1 alan retry
